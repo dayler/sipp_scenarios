@@ -1,0 +1,11 @@
+sipp: The following events occured:
+2014-02-04	00:19:37:805	1391487577.805827: Aborting call on unexpected message for Call-Id '192.168.2.1_10_4923797012976862913': while pausing (index 6), received 'ACK sip:127.0.0.1:5066;transport=UDP SIP/2.0
+Max-Forwards: 69
+Content-Length: 0
+To: "service"<sip:service@127.0.0.1:5066>;tag=4370SIPpTag019
+Cseq: 1 ACK
+Via: SIP/2.0/UDP 192.168.2.1:5060;branch=z9hG4bKdaac3514d5d424924c5abd6f2b23e1356edd
+From: "sipp"<sip:sipp@127.0.0.1:5088>;tag=hr8nryjs-j
+Call-Id: 192.168.2.1_10_4923797012976862913
+
+'.

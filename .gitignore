@@ -20,9 +20,6 @@ dist/
 *.swp
 *.out
 
-# Test CFI folders
-/bulk/*
-/log/*
-
-# Especific for voipcarrier
-config.xml
+# SIPP log files #
+*_messages.log
+*_errors.log
